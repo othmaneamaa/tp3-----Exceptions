@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Binary folder
+bin/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Log files
+*.log
